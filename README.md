@@ -6,3 +6,7 @@
 I collect the data from
 https://www.kaggle.com/alxmamaev/flowers-recognition
 
+![image](https://user-images.githubusercontent.com/86481925/149171449-b3434c58-be13-424d-89b0-7eff3d9b6d53.png)
+![image](https://user-images.githubusercontent.com/86481925/149171500-b2b28073-a980-480f-af21-5f7d8437c7b6.png)
+
+
